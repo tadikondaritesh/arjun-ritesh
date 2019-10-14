@@ -1,0 +1,6 @@
+echo "# arjun-ritesh" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/tadikondaritesh/arjun-ritesh.git
+git push -u origin master
